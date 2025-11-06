@@ -143,8 +143,8 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ### 👩‍💻 Author
 **Shravinya Gadeela**  
 AI & ML Engineer | Computer Vision Enthusiast  
-📧 [shravingadeela@example.com]  
-🔗 [GitHub Profile](https://github.com/yourusername)
+📧 [shravinyagoud@gmail.com]  
+🔗 [GitHub Profile](https://github.com/Shravinya)
 
 ---
 
